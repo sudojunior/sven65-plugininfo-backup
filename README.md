@@ -1,6 +1,6 @@
-# angelisawizard-backup
+# discord-channel-backup
 
-A backup repository for a streamer's assets.
+A backup repository for an information channel.
 
 ## Configuration
 
@@ -17,9 +17,7 @@ A backup repository for a streamer's assets.
 
 ## License
 
-Rights to the files `config.example.json` and `post.js` belong to myself under UNLICENSE.
-
-Rights to all files under `./images/*` belong to AngelisaWizard, this repository hosts a backup for their content and the means to repost it in the event it is unrecoverable.
+Rights to the files `config.example.json` and `post.js` are licensed to public domain.
 
 ## Run Instructions
 
