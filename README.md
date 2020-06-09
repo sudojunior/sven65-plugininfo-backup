@@ -17,7 +17,7 @@ A backup repository for an information channel.
 
 ## License
 
-Rights to the files `config.example.json` and `post.js` are licensed to public domain.
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Run Instructions
 
