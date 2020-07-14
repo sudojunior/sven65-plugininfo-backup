@@ -1,0 +1,16 @@
+{
+  "username": "Slabbo",
+  "avatarURL": "./images/Slabbo_Logo.png",
+  "files": ["./images/Slabbo_Banner.png"],
+  "embeds": [
+    {
+      "color": 5759361,
+      "description": "Slabbo is a Spigot plugin that lets players create and use slab shops with ease! Take a stick, right-click any slab and create your shop with the GUI!"
+    },
+    {
+      "title": "Page Links",
+      "color": 5746657,
+      "description": "[Spigot Page (spigotmc.org)](https://www.spigotmc.org/resources/slabbo.81368/)\n[Bug List (github.com)](https://github.com/Sven65/Slabbo/issues)"
+    }
+  ]
+}

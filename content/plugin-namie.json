@@ -1,0 +1,17 @@
+{
+  "username": "Namie",
+  "avatarURL": "https://gamepedia.cursecdn.com/minecraft_gamepedia/0/05/Name_Tag_JE2_BE2.png?version=9eb47b425f0ada2b09c57470c2f94d72",
+  "files": ["./images/Namie_Banner.png"],
+  "color": "green",
+  "embeds": [
+    {
+      "color": 5759361,
+      "description": "Namie is a Spigot plugin that lets players rename their items with ease, it's just one command!"
+    },
+    {
+      "title": "Page Links",
+      "color": 5746657,
+      "description": "[Spigot Page (spigotmc.org)](https://www.spigotmc.org/resources/namie.81467/)\n[Bug List (github.com)](https://github.com/Sven65/Namie/issues)"
+    }
+  ]
+}
